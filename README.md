@@ -5,4 +5,5 @@ Kendimi [Seleniumda](https://selenium-python.readthedocs.io) geliştirmek için 
 # Iletişim
 
 [Botun gelişme sürecini burdan paylaşacağım](https://discord.gg/Fht7BAPYZe)
+
 [Instagram](https://www.instagram.com/kaan_ondn)
